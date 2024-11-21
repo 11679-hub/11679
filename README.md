@@ -37,7 +37,7 @@ To use the DVD dataset, please follow the steps below:
    Download the test dataset from [DVN GitHub Repository](https://github.com/megvii-research/DVN).
 
 2. Organize the Dataset:
-  Then, unzip the file into `Dataset` directory.
+  Then, unzip the file into `code/Dataset` directory.
   And the directory structure is organized as:
   
   ```
