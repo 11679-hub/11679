@@ -49,7 +49,7 @@ To use the DVD dataset, please follow the steps below:
 
 #### 3. Testing
 
-3. 1 Test our pre-trained FCENet models on the DVD dataset. The results will be saved in 'code/results/'.
+3. 1 Test our pre-trained FCENet models on the DVD dataset. The results will be saved in 'code/results'.
 
 ```shell
 python test.py --gpu_id=0 --sigma=2
