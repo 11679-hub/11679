@@ -8,13 +8,9 @@ import torchvision
 import matplotlib.pyplot as plt
 import torch.optim as optim
 from timm.layers.helpers import to_2tuple
-#from timm.models.layers.helpers import to_2tuple
-# from torch.nn import MSELoss
 import numpy as np
 import math
-# import torch.optim as optim
-# from torch.optim.lr_scheduler import CosineAnnealingLR
-# from timm.data import IMAGENET_DEFAULT_MEAN, IMAGENET_DEFAULT_STD 
+
 def to_3d(x):
     return rearrange(x, 'b c h w -> b (h w) c')
 
