@@ -1,6 +1,5 @@
 import math
 import pickle as pkl
-#from refile import smart_open
 from smart_open import open
 import cv2
 import numpy as np
