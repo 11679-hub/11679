@@ -4,7 +4,7 @@ This repo includes:
 
 - Specification of dependencies.
 - Evaluation code.
-- Pre-trained models.
+- Pre-trained model.
 - README file.
 
 This repo can reproduce the main results in Table (1) of our main paper.
